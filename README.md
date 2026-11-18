@@ -1,4 +1,4 @@
-# <img src="app-icon.png" alt="Logo" height="24"> Cambiar Nombres Videos UI SCR98
+# <img src="app-icon.png" alt="Logo" height="24"> Cambiar Nombres Vídeos UI SCR98
 
 Una aplicación sencilla para renombrar y numerar tus vídeos en lote, sin scripts ni comandos.
 
@@ -78,12 +78,12 @@ Y dos controles:
 
 Hay cuatro modos:
 
-| Modo | Qué hace |
-|---|---|
-| **Añadir** | Numera solo los que no tienen numeración |
-| **Quitar** | Quita el prefijo a los que lo tienen |
+| Modo          | Qué hace                                                 |
+| ------------- | -------------------------------------------------------- |
+| **Añadir**    | Numera solo los que no tienen numeración                 |
+| **Quitar**    | Quita el prefijo a los que lo tienen                     |
 | **Renumerar** | Quita la numeración y vuelve a numerar todo desde `0000` |
-| **No tocar** | No toca la numeración, solo cambia títulos |
+| **No tocar**  | No toca la numeración, solo cambia títulos               |
 
 Si un modo no tiene sentido con lo que hay en la carpeta, aparece deshabilitado.
 
@@ -115,13 +115,13 @@ También puedes marcar o desmarcar cada hora una a una.
 
 Ejemplos con las horas `00 + 15–23` marcadas:
 
-| Situación | Resultado |
-|---|---|
-| 3 vídeos sin numerar, Automática | `0000 00`, `0001 15`, `0002 16` |
-| 3 vídeos sin numerar, Empezar en la 18 | `0000 18`, `0001 19`, `0002 20` |
-| Está `0006 18 X` y 2 vídeos nuevos | `0007 19`, `0008 20` |
+| Situación                                           | Resultado                                       |
+| --------------------------------------------------- | ----------------------------------------------- |
+| 3 vídeos sin numerar, Automática                    | `0000 00`, `0001 15`, `0002 16`                 |
+| 3 vídeos sin numerar, Empezar en la 18              | `0000 18`, `0001 19`, `0002 20`                 |
+| Está `0006 18 X` y 2 vídeos nuevos                  | `0007 19`, `0008 20`                            |
 | Borraste los primeros, quedan `0005 17` y `0006 18` | el nuevo es `0007 19` (sigue desde el más alto) |
-| Está `0010 23 X` | el nuevo es `0011 00` (da la vuelta) |
+| Está `0010 23 X`                                    | el nuevo es `0011 00` (da la vuelta)            |
 
 ---
 
