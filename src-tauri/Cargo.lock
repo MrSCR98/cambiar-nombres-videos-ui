@@ -277,7 +277,7 @@ dependencies = [
 
 [[package]]
 name = "cambiar-nombres-videos-ui"
-version = "1.1.0"
+version = "1.1.1"
 dependencies = [
  "serde",
  "tauri",
