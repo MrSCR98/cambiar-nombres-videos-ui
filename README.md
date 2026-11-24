@@ -8,7 +8,7 @@ Eliges la carpeta, marcas las horas, pegas los títulos que te devuelve la IA y 
 
 ## ⬇️ Descargar
 
-👉 [cambiar-nombres-videos-ui.exe](https://github.com/MrSCR98/cambiar-nombres-videos-ui/releases/download/Ejecutable/cambiar-nombres-videos-ui.exe)
+👉 [cambiar-nombres-videos-ui.exe](https://github.com/MrSCR98/cambiar-nombres-videos-ui/releases/download/1.1.0/cambiar-nombres-videos-ui.exe)
 
 ---
 
